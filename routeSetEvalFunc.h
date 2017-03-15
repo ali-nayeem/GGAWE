@@ -157,8 +157,8 @@ public:
                     else if (transfer[i][j] > 2)
                     {
                         Dun += d[i][j];
-                        ATT += d[i][j] * dist[i][j];
-                        totalSatisfied += d[i][j];
+                        //ATT += d[i][j] * dist[i][j];
+                        //totalSatisfied += d[i][j];
                         //  cout << "more than 2";
                     }
                     else
