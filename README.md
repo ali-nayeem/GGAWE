@@ -1,0 +1,2 @@
+# Transit Network Design by Hybrid Guided Genetic Algorithm with Elitism
+This the implementation of our hybrid (genetic algorithm + guided local search) approach named GGAWE designed to solve the transit network design problem (TNDP). We used C++ on top of a white-box object-oriented framework named [ParadisEO](http://paradiseo.gforge.inria.fr/). The original work is published in proceedings of the 13th Conference on Advanced Systems in Public Transport (CASPT), Rotterdam, Netherlands, 2015.
